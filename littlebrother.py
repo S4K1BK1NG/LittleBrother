@@ -1,4 +1,4 @@
-# -*- coding: Sakib -*-
+# -*- coding: uf8 -*-
 # Please give me credits if you use any codes from here.
 # This is in development. So there are some France Language and there are some mistakes too. Report them to my Telegram Group.
 # Telegram Group: https://t.me/UPS4K1B 
